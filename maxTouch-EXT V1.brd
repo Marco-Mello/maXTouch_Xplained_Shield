@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="100" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -1325,7 +1325,7 @@
 Marco Mello</text>
 <text x="33.654" y="26.67" size="2.54" layer="21" font="vector" ratio="15" rot="R90" align="center">J507</text>
 <text x="11.43" y="51.434" size="2.54" layer="21" font="vector" ratio="15" rot="R180" align="center">J505</text>
-<text x="12.7" y="17.145" size="1.27" layer="22" font="vector" ratio="15" rot="MR90" align="center">Compatível com SAME70-XPLD
+<text x="11.43" y="17.145" size="1.27" layer="22" font="vector" ratio="15" rot="MR90" align="center">Compatível com SAME70-XPLD
 Rev. A e B</text>
 </plain>
 <libraries>
