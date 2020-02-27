@@ -4544,8 +4544,8 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="C1" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-10X10.5-63V-20%" value="100uF"/>
 <part name="C2" library="SparkFun-Capacitors" deviceset="CAP" device="-0805" value="10uF"/>
 <part name="GND1" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="C3" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-RADIAL-2.5MM-25V-20%" value="100uF"/>
-<part name="C4" library="SparkFun-Capacitors" deviceset="0.1UF" device="-KIT-EZ-50V-20%" value="0.1uF"/>
+<part name="C3" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-RADIAL-2.5MM-25V-20%" value="100UF-POLAR-RADIAL-2.5MM-25V-20%"/>
+<part name="C4" library="SparkFun-Capacitors" deviceset="0.1UF" device="-KIT-EZ-50V-20%" value="0.1UF-KIT-EZ-50V-20%"/>
 <part name="U1" library="SparkFun-IC-Power" deviceset="V_REG_LM1117" device="SOT223"/>
 <part name="J6" library="SparkFun-Connectors" deviceset="CONN_01" device=""/>
 </parts>
